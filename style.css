@@ -52,3 +52,17 @@ body{
     padding: 15px;
 
 }
+ul li{
+    list-style: none;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 10px;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:  #edeef0;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
